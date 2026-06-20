@@ -1,0 +1,10 @@
+{
+  "name": "训练睡眠记录",
+  "short_name": "训练记录",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6F4EF",
+  "theme_color": "#B5764A",
+  "orientation": "portrait"
+}
